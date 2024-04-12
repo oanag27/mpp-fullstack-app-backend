@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB59E6D-BD8B-4749-B621-8AEDF8CA46F6}|mpp-prj.test\\mpp-prj.test.csproj|c:\\users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mpp-prj.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB59E6D-BD8B-4749-B621-8AEDF8CA46F6}|mpp-prj.test\\mpp-prj.test.csproj|solutionrelative:mpp-prj.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mpp-prj.test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "mpp-prj.test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mpp-prj.test\\UnitTest1.cs",
+              "RelativeToolTip": "mpp-prj.test\\UnitTest1.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAwJ8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:49:14.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\appsettings.json",
+              "RelativeDocumentMoniker": "mmp-prj\\appsettings.json",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\appsettings.json",
+              "RelativeToolTip": "mmp-prj\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T14:39:47.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Models\\Tasks.cs",
+              "RelativeToolTip": "mmp-prj\\Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:28:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "mmp-prj\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:26:49.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Program.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Program.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Program.cs",
+              "RelativeToolTip": "mmp-prj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:25:54.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

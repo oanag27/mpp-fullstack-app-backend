@@ -1,0 +1,6 @@
+@mmp_prj_HostAddress = http://localhost:5251
+
+GET {{mmp_prj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
