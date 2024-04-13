@@ -1,1 +1,1 @@
-# mpp-project-full-stack
+My project's backend system, developed in C#, serves as the backbone for my task management application. It efficiently handles CRUD operations for tasks, including sorting by name for enhanced usability. Moreover, it prioritizes reliability with a comprehensive suite of tests to ensure seamless functionality and robust performance.
