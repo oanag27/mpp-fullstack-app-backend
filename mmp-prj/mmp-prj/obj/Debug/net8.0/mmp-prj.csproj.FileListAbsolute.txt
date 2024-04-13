@@ -200,3 +200,5 @@ C:\Users\oanam\source\repos\mpp-fullstack-app-backend\mmp-prj\mmp-prj\bin\Debug\
 C:\Users\oanam\source\repos\mpp-fullstack-app-backend\mmp-prj\mmp-prj\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\oanam\source\repos\mpp-fullstack-app-backend\mmp-prj\mmp-prj\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\oanam\source\repos\mpp-fullstack-app-backend\mmp-prj\mmp-prj\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\oanam\source\repos\mpp-fullstack-app-backend\mmp-prj\mmp-prj\bin\Debug\net8.0\Faker.Net.6.0.dll
+C:\Users\oanam\source\repos\mpp-fullstack-app-backend\mmp-prj\mmp-prj\bin\Debug\net8.0\de-DE\Faker.Net.6.0.resources.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mpp-prj.test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85e4859cf27d92f03e0fe99f5ddfd7c8938e1a8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20e7d53abc242376d690b56e1dacc274d34eccc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("mpp-prj.test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mpp-prj.test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
