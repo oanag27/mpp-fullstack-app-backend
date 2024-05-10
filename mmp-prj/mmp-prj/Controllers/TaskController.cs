@@ -8,15 +8,6 @@ namespace mmp_prj.Controllers;
 [ApiController]
 public class TaskController : Controller
 {
-    //public static List<Tasks> tasks = new List<Tasks>()
-    //{
-    //    new Tasks { Id = 1, Name = "Task 1", Description = "Description for Task 1", Duration = 10 },
-    //    new Tasks { Id = 2, Name = "Task 2", Description = "Description for Task 2", Duration = 20 },
-    //    new Tasks { Id = 3, Name = "Task 3", Description = "Description for Task 3", Duration = 7 },
-    //    new Tasks { Id = 4, Name = "Task 4", Description = "Description for Task 4", Duration = 100 },
-    //    new Tasks { Id = 5, Name = "Task 5", Description = "Description for Task 5", Duration = 50 }
-    //};
-    //public static List<Tasks> tasks = new List<Tasks>();
     private readonly ITaskService taskService;
     public TaskController(ITaskService _taskService)
     {
