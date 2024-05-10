@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj": {}
+    "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj": {
+    "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
+        "projectUniqueName": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
         "projectName": "mmp-prj",
-        "projectPath": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
+        "projectPath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
         "packagesPath": "C:\\Users\\oanam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oanam\\source\\repos\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\obj\\",
+        "outputPath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[3.3.1, )"
             },
+            "Microsoft.AspNet.SignalR": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            },
             "Microsoft.AspNet.WebApi.Cors": {
               "target": "Package",
               "version": "[5.3.0, )"
@@ -69,6 +73,16 @@
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",

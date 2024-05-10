@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using mmp_prj.Models;
+using mmp_prj.Service;
+
 namespace mmp_prj.Controllers;
 [Route("api/[controller]")]
 [ApiController]
@@ -14,26 +16,17 @@ public class TaskController : Controller
     //    new Tasks { Id = 4, Name = "Task 4", Description = "Description for Task 4", Duration = 100 },
     //    new Tasks { Id = 5, Name = "Task 5", Description = "Description for Task 5", Duration = 50 }
     //};
-    public static List<Tasks> tasks = new List<Tasks>();
-    public TaskController()
+    //public static List<Tasks> tasks = new List<Tasks>();
+    private readonly ITaskService taskService;
+    public TaskController(ITaskService _taskService)
     {
-        // Generate fake tasks using Faker
-        for (int i = 0; i < 5; i++)
-        {
-            tasks.Add(new Tasks
-            {
-                Id = i + 1,
-                Name = Faker.Name.FullName(),
-                Description = Faker.Lorem.Sentence(5),
-                Duration = Faker.RandomNumber.Next(1, 100)
-            });
-        }
+        taskService = _taskService;
     }
 
     [HttpGet("GetTaskById/{id}")]
-    public virtual ActionResult<Tasks> GetTaskById(int id)
+    public async Task<ActionResult<Models.Task>> GetTaskById(int id)
     {
-        var task = tasks.Find(t => t.Id == id);
+        var task = await taskService.GetTaskByIdAsync(id);
         if (task == null)
         {
             return NotFound();
@@ -42,60 +35,117 @@ public class TaskController : Controller
     }
 
     [HttpGet("GetAllTasks")]
-    public virtual ActionResult<IEnumerable<Tasks>> GetAllTasks()
+    public async Task<ActionResult<IEnumerable<Models.Task>>> GetAllTasks()
     {
+        Console.WriteLine("all");
+        var tasks = await taskService.GetAllTasksAsync();
         return Ok(tasks);
     }
 
     [HttpDelete("Delete/{id}")]
-    public virtual ActionResult Delete(int id)
+    public async Task<ActionResult> Delete(int id)
     {
-        var task = tasks.Find(t => t.Id == id);
-        if (task == null)
+        var success = await taskService.DeleteTaskAsync(id);
+        if (!success)
         {
             return NotFound();
         }
-        tasks.Remove(task);
+        return NoContent();
+    }
+    [HttpDelete("DeleteName/{name}")]
+    public async Task<ActionResult> DeleteName(string name)
+    {
+        var success = await taskService.DeleteTaskByNameAsync(name);
+        if (!success)
+        {
+            return NotFound();
+        }
         return NoContent();
     }
 
     [HttpPost("AddTask")]
-    public virtual ActionResult<Tasks> AddTask(Tasks task)
+    public async Task<ActionResult<Models.Task>> AddTask(Models.Task task)
     {
-        // Find the maximum id in the existing tasks list
-        int maxId = tasks.Max(t => t.Id);
-
-        // Set the id of the new task to be one greater than the maximum id
-        task.Id = maxId + 1;
-
-        tasks.Add(task);
-        return CreatedAtAction(nameof(GetTaskById), new { id = task.Id }, task);
+        var addedTask = await taskService.AddTaskAsync(task);
+        return CreatedAtAction(nameof(GetTaskById), new { id = addedTask.Id }, addedTask);
     }
 
     [HttpPut("UpdateTask/{id}")]
-    public virtual IActionResult UpdateTask(int id, Tasks task)
+    public async Task<IActionResult> UpdateTask(int id, Models.Task task)
     {
         if (id != task.Id)
         {
             return BadRequest();
         }
-        var existingTask = tasks.Find(t => t.Id == id);
-        if (existingTask == null)
+        var success = await taskService.UpdateTaskAsync(id, task);
+        if (!success)
         {
             return NotFound();
         }
-        existingTask.Name = task.Name;
-        existingTask.Description = task.Description;
-        existingTask.Duration = task.Duration;
         return NoContent();
     }
-
-    [HttpGet("GetAllDataSortedByName")]
-    public virtual ActionResult<IEnumerable<Tasks>> GetAllDataSortedByName()
+    [HttpPut("UpdateTaskByName/{name}")]
+    public async Task<IActionResult> UpdateTaskByName(string name, Models.Task task)
     {
-        // Sort tasks by name
-        IEnumerable<Tasks> sortedTasks = tasks.OrderBy(t => t.Name);
+        if (name != task.Name)
+        {
+            return BadRequest();
+        }
+        var success = await taskService.UpdateTaskByNameAsync(name, task);
+        if (!success)
+        {
+            return NotFound();
+        }
+        return NoContent();
+    }
+    [HttpGet("GetAllDataSortedByName")]
+    public async Task<ActionResult<IEnumerable<Models.Task>>> GetAllDataSortedByName()
+    {
+        var sortedTasks = await taskService.GetAllTasksSortedByNameAsync();
         return Ok(sortedTasks);
     }
+    [HttpPost("PopulateDatabase")]
+    public async Task<ActionResult> PopulateDatabase(int numberOfTasks)
+    {
+        var tasks = Enumerable.Range(1, numberOfTasks)
+            .Select(i => new Models.Task
+            {
+                Name = Faker.Name.FullName(),
+                Description = Faker.Lorem.Sentence(5),
+                Duration = Faker.RandomNumber.Next(1, 100)
+            });
 
+        // Add tasks to the database
+        foreach (var task in tasks)
+        {
+            await taskService.AddTaskAsync(task);
+        }
+
+        return Ok("Database populated successfully.");
+    }
+
+    [HttpGet("AggregateTaskCounts")]
+    public async Task<ActionResult<IEnumerable<TaskCount>>> AggregateTaskCounts()
+    {
+        // Get all tasks
+        var tasks = await taskService.GetAllTasksAsync();
+
+        // Aggregate task counts
+        var taskCounts = tasks.GroupBy(t => t.Name)
+            .Select(g => new TaskCount
+            {
+                TaskName = g.Key,
+                Count = g.Count()
+            })
+            .ToList();
+
+        return Ok(taskCounts);
+    }
+
+
+public class TaskCount
+{
+    public string TaskName { get; set; }
+    public int Count { get; set; }
+}
 }
