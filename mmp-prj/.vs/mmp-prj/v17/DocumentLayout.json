@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\service\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\service\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\repository\\subtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\subtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\repository\\isubtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\isubtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\service\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +47,8 @@
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\service\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\repository\\subtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\subtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\domain\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +67,8 @@
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\repository\\isubtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\isubtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\models\\mppcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\mppcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\service\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7BB59E6D-BD8B-4749-B621-8AEDF8CA46F6}|mpp-prj.test\\mpp-prj.test.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mpp-prj.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BB59E6D-BD8B-4749-B621-8AEDF8CA46F6}|mpp-prj.test\\mpp-prj.test.csproj|solutionrelative:mpp-prj.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\service\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,58 +150,36 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "mmp-prj\\Controllers\\TaskController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "DocumentIndex": 3,
+              "Title": "SubtaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\SubtaskRepository.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Repository\\SubtaskRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\SubtaskRepository.cs",
+              "RelativeToolTip": "mmp-prj\\Repository\\SubtaskRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:26:49.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\TaskService.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Service\\TaskService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\TaskService.cs",
-              "RelativeToolTip": "mmp-prj\\Service\\TaskService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAYwDIAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:31:53.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Models\\Task.cs",
-              "RelativeToolTip": "mmp-prj\\Models\\Task.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:18:13.625Z",
+              "WhenOpened": "2024-04-21T18:05:51.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ITaskService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\ITaskService.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Service\\ITaskService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\ITaskService.cs",
-              "RelativeToolTip": "mmp-prj\\Service\\ITaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Title": "ISubtaskService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\ISubtaskService.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Service\\ISubtaskService.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\ISubtaskService.cs",
+              "RelativeToolTip": "mmp-prj\\Service\\ISubtaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:34:00.37Z",
+              "WhenOpened": "2024-04-21T18:08:38.813Z",
               "EditorCaption": ""
             },
             {
@@ -212,7 +190,7 @@
               "RelativeDocumentMoniker": "mmp-prj\\Repository\\ITaskRepository.cs",
               "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\ITaskRepository.cs",
               "RelativeToolTip": "mmp-prj\\Repository\\ITaskRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T07:33:42.587Z",
               "EditorCaption": ""
@@ -220,14 +198,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Repository\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\TaskRepository.cs",
-              "RelativeToolTip": "mmp-prj\\Repository\\TaskRepository.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAQwE0AAAANAAAA",
+              "Title": "ISubtaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\ISubtaskRepository.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Repository\\ISubtaskRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\ISubtaskRepository.cs",
+              "RelativeToolTip": "mmp-prj\\Repository\\ISubtaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:31:42.718Z",
+              "WhenOpened": "2024-04-21T18:08:17.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubtaskService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\SubtaskService.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Service\\SubtaskService.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\SubtaskService.cs",
+              "RelativeToolTip": "mmp-prj\\Service\\SubtaskService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:06:05.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubtaskController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\SubtaskController.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\SubtaskController.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\SubtaskController.cs",
+              "RelativeToolTip": "mmp-prj\\Controllers\\SubtaskController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:06:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\ITaskService.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Service\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\ITaskService.cs",
+              "RelativeToolTip": "mmp-prj\\Service\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:34:00.37Z",
               "EditorCaption": ""
             },
             {
@@ -238,27 +255,64 @@
               "RelativeDocumentMoniker": "mmp-prj\\Models\\Subtask.cs",
               "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Models\\Subtask.cs",
               "RelativeToolTip": "mmp-prj\\Models\\Subtask.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T07:18:10.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SubtaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\SubtaskRepository.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Repository\\SubtaskRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\SubtaskRepository.cs",
-              "RelativeToolTip": "mmp-prj\\Repository\\SubtaskRepository.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Models\\Task.cs",
+              "RelativeToolTip": "mmp-prj\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:05:51.232Z",
+              "WhenOpened": "2024-04-21T07:18:13.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "mmp-prj\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:26:49.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Repository\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\TaskRepository.cs",
+              "RelativeToolTip": "mmp-prj\\Repository\\TaskRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:31:42.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\TaskService.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Service\\TaskService.cs",
+              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\TaskService.cs",
+              "RelativeToolTip": "mmp-prj\\Service\\TaskService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwDIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:31:53.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Tasks.cs",
               "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Domain\\Tasks.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Domain\\Tasks.cs",
@@ -266,12 +320,11 @@
               "RelativeToolTip": "mmp-prj\\Domain\\Tasks.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:28:22.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T14:28:22.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "mmp-prj\\Properties\\launchSettings.json",
@@ -279,12 +332,11 @@
               "RelativeToolTip": "mmp-prj\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T05:41:10.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T05:41:10.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\appsettings.Development.json",
               "RelativeDocumentMoniker": "mmp-prj\\appsettings.Development.json",
@@ -292,25 +344,11 @@
               "RelativeToolTip": "mmp-prj\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T05:41:07.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T05:41:07.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SubtaskController.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\SubtaskController.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\SubtaskController.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Controllers\\SubtaskController.cs",
-              "RelativeToolTip": "mmp-prj\\Controllers\\SubtaskController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:06:20.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\appsettings.json",
               "RelativeDocumentMoniker": "mmp-prj\\appsettings.json",
@@ -318,25 +356,11 @@
               "RelativeToolTip": "mmp-prj\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-12T14:39:47.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T14:39:47.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ISubtaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\ISubtaskRepository.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Repository\\ISubtaskRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Repository\\ISubtaskRepository.cs",
-              "RelativeToolTip": "mmp-prj\\Repository\\ISubtaskRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:08:17.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MppContext.cs",
               "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Models\\MppContext.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Models\\MppContext.cs",
@@ -344,25 +368,11 @@
               "RelativeToolTip": "mmp-prj\\Models\\MppContext.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:18:04.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T07:18:04.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SubtaskService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\SubtaskService.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Service\\SubtaskService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\SubtaskService.cs",
-              "RelativeToolTip": "mmp-prj\\Service\\SubtaskService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:06:05.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Program.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Program.cs",
@@ -370,12 +380,11 @@
               "RelativeToolTip": "mmp-prj\\Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAHcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:25:54.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T14:25:54.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mpp-prj.test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "mpp-prj.test\\UnitTest1.cs",
@@ -384,18 +393,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T14:49:14.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ISubtaskService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\ISubtaskService.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Service\\ISubtaskService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\Service\\ISubtaskService.cs",
-              "RelativeToolTip": "mmp-prj\\Service\\ISubtaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:08:38.813Z"
             }
           ]
         },

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using mmp_prj.Models;
 using mmp_prj.Service;
 
@@ -35,11 +36,23 @@ namespace mmp_prj.Controllers
         }
 
         [HttpPost("AddSubtask")]
-        public async Task<ActionResult<Subtask>> AddSubtask(Subtask subtask)
+        public async Task<IActionResult> AddSubtaskAsync(string name, string description, bool completed, int taskId)
         {
-            var addedSubtask = await _subtaskService.AddSubtaskAsync(subtask);
-            return CreatedAtAction(nameof(GetSubtaskById), new { id = addedSubtask.Id }, addedSubtask);
+            try
+            {
+                var subtask = await _subtaskService.AddSubtaskAsync(name, description, completed, taskId);
+                return NoContent();
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "An error occurred while processing the request.");
+            }
         }
+
 
         [HttpPut("UpdateSubtask/{id}")]
         public async Task<IActionResult> UpdateSubtask(int id, Subtask subtask)

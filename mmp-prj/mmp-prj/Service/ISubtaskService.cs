@@ -6,7 +6,7 @@ namespace mmp_prj.Service
     {
         Task<Subtask> GetSubtaskByIdAsync(int id);
         Task<IEnumerable<Subtask>> GetAllSubtasksAsync();
-        Task<Subtask> AddSubtaskAsync(Subtask subtask);
+        Task<Subtask> AddSubtaskAsync(string name, string description, bool completed, int taskId);
         Task<bool> DeleteSubtaskAsync(int id);
         Task<bool> UpdateSubtaskAsync(int id, Subtask subtask);
     }
