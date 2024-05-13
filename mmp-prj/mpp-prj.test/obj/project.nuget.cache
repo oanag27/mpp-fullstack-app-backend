@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qxgdZuFrUiPxymFscMB059aVM4s31dbH3lcNuqm9oGRA9smcpRgRnyT5+AmL9puzYb1JYTxXpCBJmVv1ZLAKOg==",
+  "dgSpecHash": "z6bgJrf+QstywZ22H1BH5CQ8VaWl1Dycv74iTA0Y1opBIJLrfwtg4rZqSW7BQO3yNoFQbnvOWWypqx4pEGx6AA==",
   "success": true,
   "projectFilePath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mpp-prj.test\\mpp-prj.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oanam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\oanam\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\faker.net\\2.0.163\\faker.net.2.0.163.nupkg.sha512",

@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using mmp_prj.Models;
 using mmp_prj.Service;
+using Bogus;
 
 namespace mmp_prj.Controllers;
 [Route("api/[controller]")]
@@ -9,9 +10,52 @@ namespace mmp_prj.Controllers;
 public class TaskController : Controller
 {
     private readonly ITaskService taskService;
-    public TaskController(ITaskService _taskService)
+    private readonly ISubtaskService subtaskService;
+    public TaskController(ITaskService _taskService, ISubtaskService subtaskService)
     {
         taskService = _taskService;
+        this.subtaskService = subtaskService;
+    }
+    [HttpPost("AddSubtasksForAllTasks")]
+    public async Task<ActionResult> AddSubtasksForAllTasks(int subtaskCount)
+    {
+        try
+        {
+            // Get all tasks from the database
+            var tasks = await taskService.GetAllTasksAsync();
+
+            if (tasks == null || !tasks.Any())
+            {
+                return NotFound("No tasks found in the database.");
+            }
+
+            // Generate subtasks for each task
+            var subtaskFaker = new Faker<Subtask>()
+                .RuleFor(s => s.Name, f => f.Random.Word())
+                .RuleFor(s => s.Description, f => f.Lorem.Sentence())
+                .RuleFor(s => s.Completed, f => f.Random.Bool());
+
+            foreach (var task in tasks)
+            {
+                var subtasks = subtaskFaker.Generate(subtaskCount);
+                foreach (var subtask in subtasks)
+                {
+                    subtask.TaskId = task.Id;
+                   
+                }
+                foreach (var subtask in subtasks)
+                {
+                    // Provide values for each parameter when calling AddSubtaskAsync
+                    await subtaskService.AddSubtaskAsync(subtask.Name, subtask.Description, (bool)subtask.Completed, (int)subtask.TaskId);
+                }
+            }
+
+            return Ok($"Added {subtaskCount} subtasks for each task successfully.");
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, $"Internal server error: {ex.Message}");
+        }
     }
 
     [HttpGet("GetTaskById/{id}")]
@@ -98,13 +142,14 @@ public class TaskController : Controller
     [HttpPost("PopulateDatabase")]
     public async Task<ActionResult> PopulateDatabase(int numberOfTasks)
     {
-        var tasks = Enumerable.Range(1, numberOfTasks)
-            .Select(i => new Models.Task
-            {
-                Name = Faker.Name.FullName(),
-                Description = Faker.Lorem.Sentence(5),
-                Duration = Faker.RandomNumber.Next(1, 100)
-            });
+        // Create Faker instance for generating task data
+        var faker = new Faker<Models.Task>("en")
+            .RuleFor(t => t.Name, f => f.Name.FullName())
+            .RuleFor(t => t.Description, f => f.Lorem.Sentence(5))
+            .RuleFor(t => t.Duration, f => f.Random.Number(1, 100));
+
+        // Generate 150 new tasks
+        var tasks = faker.Generate(numberOfTasks);
 
         // Add tasks to the database
         foreach (var task in tasks)
@@ -112,7 +157,11 @@ public class TaskController : Controller
             await taskService.AddTaskAsync(task);
         }
 
-        return Ok("Database populated successfully.");
+        // Aggregate subtask counts for each task
+        var subtaskCounts = await taskService.CountSubtasksForEachTaskAsync();
+
+        // Return the aggregated data
+        return Ok(subtaskCounts);
     }
 
     [HttpGet("AggregateTaskCounts")]
@@ -132,9 +181,45 @@ public class TaskController : Controller
 
         return Ok(taskCounts);
     }
+   
+    [HttpGet("GetTaskNameById/{taskId}")]
+    public async Task<ActionResult<string>> GetTaskNameById(int taskId)
+    {
+        try
+        {
+            var taskName = await taskService.GetTaskNameByIdAsync(taskId);
+            if (taskName == null)
+            {
+                return NotFound("No task found with the specified ID.");
+            }
 
+            return Ok(taskName);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, $"Internal server error: {ex.Message}");
+        }
+    }
+    [HttpGet("GetTaskIdByName/{taskName}")]
+    public async Task<ActionResult<string>> GetTaskIdByName(string taskName)
+    {
+        try
+        {
+            var taskId = await taskService.GetTaskIdByNameAsync(taskName);
+            if (taskId == null)
+            {
+                return NotFound("No task found with the specified name.");
+            }
 
-public class TaskCount
+            return Ok(taskId);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, $"Internal server error: {ex.Message}");
+        }
+    }
+
+    public class TaskCount
 {
     public string TaskName { get; set; }
     public int Count { get; set; }

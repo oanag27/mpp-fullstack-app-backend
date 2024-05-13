@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5RtfBYdgLEUThCaHLB+pgXjFU7a0Mt/E3mCp0vB6Nt93EwoMX7PFpLXEoxVjvbyVdWtLDIZQsDAy9KonCsUinw==",
+  "dgSpecHash": "IcQtxSN0zoOAuC89/NXxGvQNCPX4tybDKvqaQzsDyWK7fIszxeVWVjn7r9fGC+nhhShpkMEZLV62fHVrAdwZGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oanam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\oanam\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\faker.net\\2.0.163\\faker.net.2.0.163.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

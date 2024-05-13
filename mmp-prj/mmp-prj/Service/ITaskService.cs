@@ -1,4 +1,5 @@
 ﻿using mmp_prj.Models;
+using System.Threading.Tasks;
 
 namespace mmp_prj.Service
 {
@@ -12,5 +13,8 @@ namespace mmp_prj.Service
         public Task<bool> UpdateTaskAsync(int id, Models.Task task);
         public Task<bool> UpdateTaskByNameAsync(string name, Models.Task task);
         public Task<IEnumerable<Models.Task>> GetAllTasksSortedByNameAsync();
+        public Task<Dictionary<int, int>> CountSubtasksForEachTaskAsync();
+        public Task<string> GetTaskNameByIdAsync(int taskId);
+        public Task<int> GetTaskIdByNameAsync(string taskName);
     }
 }

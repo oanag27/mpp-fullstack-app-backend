@@ -13,5 +13,8 @@ namespace mmp_prj.Repository
         Task<bool> UpdateTaskAsync(int id, Models.Task task);
         Task<bool> UpdateTaskByNameAsync(string name, Models.Task task);
         Task<IEnumerable<Models.Task>> GetAllTasksSortedByNameAsync();
+        Task<Dictionary<int,int>> CountSubtasksForEachTaskAsync();
+        Task<string> GetTaskNameByIdAsync(int taskId);
+        Task<int> GetTaskIdByNameAsync(string taskName);
     }
 }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Bogus;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using mmp_prj.Models;
 using mmp_prj.Service;
@@ -52,7 +53,41 @@ namespace mmp_prj.Controllers
                 return StatusCode(500, "An error occurred while processing the request.");
             }
         }
+        
+        [HttpGet("CountSubtasksForTask/{taskId}")]
+        public async Task<ActionResult<int>> CountSubtasksForTaskAsync(int taskId)
+        {
+            try
+            {
+                var subtasks = await _subtaskService.GetAllSubtasksAsync();
+                var subtaskCount = subtasks.Count(subtask => subtask.TaskId == taskId);
+                return Ok(subtaskCount);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+        [HttpGet("GetAllSubtasksByTaskId/{taskId}")]
+        public async Task<ActionResult<IEnumerable<Subtask>>> GetAllSubtasksByTaskId(int taskId)
+        {
+            try
+            {
+                var subtasks = await _subtaskService.GetAllSubtasksAsync();
 
+                var subtasksByTaskId = subtasks.Where(s => s.TaskId == taskId).ToList();
+
+                if (subtasksByTaskId == null || !subtasksByTaskId.Any())
+                {
+                    return NotFound("No subtasks found for the specified task ID.");
+                }
+                return Ok(subtasksByTaskId);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
 
         [HttpPut("UpdateSubtask/{id}")]
         public async Task<IActionResult> UpdateSubtask(int id, Subtask subtask)

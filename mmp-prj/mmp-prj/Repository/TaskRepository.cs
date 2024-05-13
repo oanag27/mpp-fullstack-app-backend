@@ -5,7 +5,6 @@ namespace mmp_prj.Repository
 {
     public class TaskRepository : ITaskRepository
     {
-        //private readonly List<Tasks> _tasks;
         private readonly MppContext context;
         public TaskRepository(MppContext _context)
         {
@@ -16,6 +15,19 @@ namespace mmp_prj.Repository
             context.Tasks.Add(task);
             await context.SaveChangesAsync();
             return task;
+        }
+
+        public async Task<Dictionary<int, int>> CountSubtasksForEachTaskAsync()
+        {
+            var tasks = await context.Tasks.Include(t => t.Subtasks).ToListAsync();
+            var subtaskCounts = new Dictionary<int, int>();
+
+            foreach (var task in tasks)
+            {
+                subtaskCounts.Add(task.Id, task.Subtasks.Count());
+            }
+
+            return subtaskCounts;
         }
 
         public async Task<bool> DeleteTaskAsync(int id)
@@ -56,7 +68,19 @@ namespace mmp_prj.Repository
         {
             return await context.Tasks.FindAsync(id);
         }
-        
+
+        public async Task<int> GetTaskIdByNameAsync(string taskName)
+        {
+            var task = await context.Tasks.FirstOrDefaultAsync(t => t.Name == taskName);
+            return task.Id;
+        }
+
+        public async Task<string> GetTaskNameByIdAsync(int taskId)
+        {
+            var task = await context.Tasks.FindAsync(taskId);
+            return task?.Name;
+        }
+
         public async Task<bool> UpdateTaskAsync(int id, Models.Task task)
         {
             var existingTask = await context.Tasks.FindAsync(id);

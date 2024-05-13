@@ -22,10 +22,6 @@ namespace mmp_prj.Service
             return _subtaskRepository.GetAllSubtasksAsync();
         }
 
-        //public Task<Subtask> AddSubtaskAsync(Subtask subtask)
-        //{
-        //    return _subtaskRepository.AddSubtaskAsync(subtask);
-        //}
         public Task<Subtask> AddSubtaskAsync(string name, string description, bool completed, int taskId)
         {
             return _subtaskRepository.AddSubtaskAsync(name, description, completed, taskId);
