@@ -41,6 +41,15 @@ namespace mmp_prj.Service
             return await _taskRepository.GetAllTasksSortedByNameAsync();
         }
 
+        public async Task<IEnumerable<Models.Task>> GetPaginatedTasksAsync(int pageNumber, int pageSize)
+        {
+            var tasks = await _taskRepository.GetAllTasksAsync();
+            return tasks
+                .Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+        }
+
         public async Task<Models.Task> GetTaskByIdAsync(int id)
         {
             return await _taskRepository.GetTaskByIdAsync(id);

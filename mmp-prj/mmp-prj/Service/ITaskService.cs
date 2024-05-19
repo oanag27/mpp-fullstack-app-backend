@@ -16,5 +16,6 @@ namespace mmp_prj.Service
         public Task<Dictionary<int, int>> CountSubtasksForEachTaskAsync();
         public Task<string> GetTaskNameByIdAsync(int taskId);
         public Task<int> GetTaskIdByNameAsync(string taskName);
+        public Task<IEnumerable<Models.Task>> GetPaginatedTasksAsync(int pageNumber, int pageSize);
     }
 }

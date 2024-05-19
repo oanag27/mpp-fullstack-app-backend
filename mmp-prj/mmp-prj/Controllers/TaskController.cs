@@ -98,6 +98,26 @@ public class TaskController : Controller
         return NoContent();
     }
 
+    [HttpGet("GetPaginatedTasks/{pageNumber}/{pageSize}")]
+    public async Task<ActionResult<IEnumerable<Models.Task>>> GetPaginatedTasks(int pageNumber, int pageSize)
+    {
+        try
+        {
+            var tasks = await taskService.GetPaginatedTasksAsync(pageNumber, pageSize);
+
+            if (tasks == null || !tasks.Any())
+            {
+                return NotFound("No tasks found in the database.");
+            }
+
+            return Ok(tasks);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, $"Internal server error: {ex.Message}");
+        }
+    }
+
     [HttpPost("AddTask")]
     public async Task<ActionResult<Models.Task>> AddTask(Models.Task task)
     {
@@ -218,6 +238,8 @@ public class TaskController : Controller
             return StatusCode(500, $"Internal server error: {ex.Message}");
         }
     }
+
+
 
     public class TaskCount
 {
