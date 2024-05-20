@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mmp-prj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6a1a3636b52721a55d720b752f461172785d135")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f361dcc6da8c0c638c108c9308f3289711eaa75e")]
 [assembly: System.Reflection.AssemblyProductAttribute("mmp-prj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mmp-prj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

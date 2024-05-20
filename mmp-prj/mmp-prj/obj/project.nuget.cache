@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IcQtxSN0zoOAuC89/NXxGvQNCPX4tybDKvqaQzsDyWK7fIszxeVWVjn7r9fGC+nhhShpkMEZLV62fHVrAdwZGw==",
+  "dgSpecHash": "a2LpvVC/lFqP+I8cS2NgGORGQun0bU10UiwlImghdl7Xw/thLY25Sok71Ks9wqkUfa6X22yZhIkWuwlwRK4V5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
+  "projectFilePath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-back\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oanam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
