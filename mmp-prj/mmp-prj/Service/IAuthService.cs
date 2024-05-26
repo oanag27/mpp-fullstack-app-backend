@@ -7,7 +7,7 @@ namespace mmp_prj.Service
     {
         string GenerateToken(UserModel user);
         bool VerifyPassword(UserModel user, string password);
-        public UserModel Register(string email, string password);
+        public UserModel Register(string email, string password, string role);
         public UserModel Authenticate(string email, string password);
         bool UserExists(string email);
     }

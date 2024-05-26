@@ -19,18 +19,18 @@ namespace mmp_prj.Controllers
         }
 
         [HttpPost("login")]
-        public IActionResult Login(UserModel user)
+        public IActionResult Login(LoginModel user)
         {
             var userLogin = _authService.Authenticate(user.Email, user.Password);
             if (userLogin == null)
                 return BadRequest("Invalid email or password");
 
             var token = _authService.GenerateToken(userLogin);
-            return Ok(new { Token = token });
+            return Ok(new { Token = token , Role = userLogin.Role});
         }
 
         [HttpPost("register")]
-        public IActionResult Register(UserModel user)
+        public IActionResult Register(RegisterModel user)
         { // Check if username is already registered
             if (_authService.UserExists(user.Email))
             {
@@ -38,7 +38,7 @@ namespace mmp_prj.Controllers
             }
 
             // Register user
-            _authService.Register(user.Email, user.Password);
+            _authService.Register(user.Email, user.Password,user.Role);
 
             return Ok(new { Message = "User registered successfully" });
         }

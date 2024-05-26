@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJRDYTspXJIra0wnCbLEUCL2RJNkyiVHtJXwGH3kWO8jfUCoCJh9HFkrmSSwpwnnxUAU3W6gXbMesxj74y2D/A==",
+  "dgSpecHash": "b/pLyG8teoEyuXYk3cWpxTp93yDqCm/Yuntd4peSSEwGJiJ87CNntNwLB6Vo2ENcUokL/Z3j9Mb4+bfLOjfcVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-back\\mmp-prj\\mpp-prj.test\\mpp-prj.test.csproj",
+  "projectFilePath": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mpp-prj.test\\mpp-prj.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oanam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -80,6 +80,7 @@
     "C:\\Users\\oanam\\.nuget\\packages\\nunit.analyzers\\4.1.0\\nunit.analyzers.4.1.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512",
+    "C:\\Users\\oanam\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\oanam\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

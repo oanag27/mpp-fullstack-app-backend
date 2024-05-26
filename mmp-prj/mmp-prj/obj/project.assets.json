@@ -1948,6 +1948,19 @@
           "lib/net40/Owin.dll": {}
         }
       },
+      "Portable.BouncyCastle/1.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "type": "package",
         "dependencies": {
@@ -5940,6 +5953,21 @@
         "owin.nuspec"
       ]
     },
+    "Portable.BouncyCastle/1.9.0": {
+      "sha512": "eZZBCABzVOek+id9Xy04HhmgykF0wZg9wpByzrWN7q8qEI0Qen9b7tfd7w8VA3dOeesumMG7C5ZPy0jk7PSRHw==",
+      "type": "package",
+      "path": "portable.bouncycastle/1.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/BouncyCastle.Crypto.dll",
+        "lib/net40/BouncyCastle.Crypto.xml",
+        "lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "lib/netstandard2.0/BouncyCastle.Crypto.xml",
+        "portable.bouncycastle.1.9.0.nupkg.sha512",
+        "portable.bouncycastle.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore/6.4.0": {
       "sha512": "eUBr4TW0up6oKDA5Xwkul289uqSMgY0xGN4pnbOIBqCcN9VKGGaPvHX3vWaG/hvocfGDP+MGzMA0bBBKz2fkmQ==",
       "type": "package",
@@ -7419,6 +7447,7 @@
       "Microsoft.NET.Test.Sdk >= 17.9.0",
       "Moq >= 4.20.70",
       "NUnit >= 4.1.0",
+      "Portable.BouncyCastle >= 1.9.0",
       "Swashbuckle.AspNetCore >= 6.4.0",
       "xunit >= 2.7.1",
       "xunit.runner.visualstudio >= 2.5.8"
@@ -7431,11 +7460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-back\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
+      "projectUniqueName": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
       "projectName": "mmp-prj",
-      "projectPath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-back\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
+      "projectPath": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
       "packagesPath": "C:\\Users\\oanam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oanam\\OneDrive\\Documents\\mpp-fullstack-app-back\\mmp-prj\\mmp-prj\\obj\\",
+      "outputPath": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7523,6 +7552,10 @@
           "NUnit": {
             "target": "Package",
             "version": "[4.1.0, )"
+          },
+          "Portable.BouncyCastle": {
+            "target": "Package",
+            "version": "[1.9.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

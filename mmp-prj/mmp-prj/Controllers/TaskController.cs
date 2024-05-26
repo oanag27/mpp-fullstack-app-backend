@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using mmp_prj.Models;
 using mmp_prj.Service;
 using Bogus;
+using Microsoft.AspNet.SignalR;
 
 namespace mmp_prj.Controllers;
 [Route("api/[controller]")]
@@ -16,6 +17,7 @@ public class TaskController : Controller
         taskService = _taskService;
         this.subtaskService = subtaskService;
     }
+
     [HttpPost("AddSubtasksForAllTasks")]
     public async Task<ActionResult> AddSubtasksForAllTasks(int subtaskCount)
     {
@@ -58,6 +60,7 @@ public class TaskController : Controller
         }
     }
 
+
     [HttpGet("GetTaskById/{id}")]
     public async Task<ActionResult<Models.Task>> GetTaskById(int id)
     {
@@ -77,6 +80,7 @@ public class TaskController : Controller
         return Ok(tasks);
     }
 
+    [Authorize(Roles = "Manager, Admin")]
     [HttpDelete("Delete/{id}")]
     public async Task<ActionResult> Delete(int id)
     {
@@ -87,6 +91,8 @@ public class TaskController : Controller
         }
         return NoContent();
     }
+
+    [Authorize(Roles = "Manager, Admin")]
     [HttpDelete("DeleteName/{name}")]
     public async Task<ActionResult> DeleteName(string name)
     {
@@ -118,6 +124,7 @@ public class TaskController : Controller
         }
     }
 
+    [Authorize(Roles = "Manager, Admin")]
     [HttpPost("AddTask")]
     public async Task<ActionResult<Models.Task>> AddTask(Models.Task task)
     {
@@ -125,6 +132,7 @@ public class TaskController : Controller
         return CreatedAtAction(nameof(GetTaskById), new { id = addedTask.Id }, addedTask);
     }
 
+    [Authorize(Roles = "Manager, Admin")]
     [HttpPut("UpdateTask/{id}")]
     public async Task<IActionResult> UpdateTask(int id, Models.Task task)
     {
@@ -139,6 +147,8 @@ public class TaskController : Controller
         }
         return NoContent();
     }
+
+    [Authorize(Roles = "Manager, Admin")]
     [HttpPut("UpdateTaskByName/{name}")]
     public async Task<IActionResult> UpdateTaskByName(string name, Models.Task task)
     {

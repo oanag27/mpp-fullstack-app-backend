@@ -5,6 +5,8 @@ using System.Security.Claims;
 using System.Text;
 using mmp_prj.Models;
 using mmp_prj.Repository;
+using Org.BouncyCastle.Crypto.Generators;
+using Microsoft.AspNetCore.Identity;
 
 namespace mmp_prj.Service
 {
@@ -12,11 +14,13 @@ namespace mmp_prj.Service
     {
         private readonly IConfiguration _configuration;
         private readonly IUserRepository _userRepository;
+        private readonly IPasswordHasher<UserModel> _passwordHasher;
 
         public AuthService(IConfiguration configuration, IUserRepository userRepository)
         {
             _configuration = configuration;
             _userRepository = userRepository;
+            _passwordHasher = new PasswordHasher<UserModel>();
         }
 
         public string GenerateToken(UserModel user)
@@ -27,7 +31,8 @@ namespace mmp_prj.Service
             {
                 Subject = new ClaimsIdentity(new[]
                 {
-                    new Claim(ClaimTypes.Name, user.Email)
+                    new Claim(ClaimTypes.Name, user.Email),
+                    new Claim(ClaimTypes.Role, user.Role)
                 }),
                 Expires = DateTime.UtcNow.AddHours(1), // Token expiration time
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
@@ -38,7 +43,9 @@ namespace mmp_prj.Service
 
         public bool VerifyPassword(UserModel user, string password)
         {
-            return user.Password == password;
+            //return user.Password == password;
+            var verificationResult = _passwordHasher.VerifyHashedPassword(user, user.Password, password);
+            return verificationResult == PasswordVerificationResult.Success;
         }
         public UserModel Authenticate(string email, string password)
         {
@@ -51,7 +58,7 @@ namespace mmp_prj.Service
             return user;
         }
 
-        public UserModel Register(string email, string password)
+        public UserModel Register(string email, string password, string role)
         {
             // Check if the user already exists
             if (_userRepository.GetUserByEmail(email) != null)
@@ -61,7 +68,9 @@ namespace mmp_prj.Service
             var newUser = new UserModel
             {
                 Email = email,
-                Password = password
+                //Password = password,
+                Password = _passwordHasher.HashPassword(null, password), // Hash the password
+                Role = role
             };
 
             // Save the user to the database
