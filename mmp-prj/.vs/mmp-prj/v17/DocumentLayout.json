@@ -1,149 +1,157 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\",
+  "WorkspaceRootPath": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\service\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\lambdafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\lambdafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\mmp-prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\service\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\migrations\\20240520083556_addtableusermodelsidgenerated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\migrations\\20240520083556_addtableusermodelsidgenerated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\migrations\\20240520083556_addtableusermodelsidgenerated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\migrations\\20240526063309_addroletousermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\migrations\\20240526063309_addroletousermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\migrations\\20240526063309_addroletousermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\migrations\\20240526065508_addtablecompletetousermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\migrations\\20240526065508_addtablecompletetousermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\migrations\\20240526065508_addtablecompletetousermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\migrations\\20240520081750_addtableuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\migrations\\20240520081750_addtableuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\migrations\\20240520081750_addtableuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\models\\mppcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\models\\mppcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\mppcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BB59E6D-BD8B-4749-B621-8AEDF8CA46F6}|mpp-prj.test\\mpp-prj.test.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mpp-prj.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BB59E6D-BD8B-4749-B621-8AEDF8CA46F6}|mpp-prj.test\\mpp-prj.test.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mpp-prj.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BB59E6D-BD8B-4749-B621-8AEDF8CA46F6}|mpp-prj.test\\mpp-prj.test.csproj|solutionrelative:mpp-prj.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\service\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\service\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\migrations\\mppcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\migrations\\mppcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\migrations\\mppcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\service\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\service\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\service\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\repository\\subtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\repository\\subtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\subtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\repository\\isubtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\repository\\isubtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\repository\\isubtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\domain\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\domain\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\domain\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\onedrive\\documents\\backend-mpp\\mmp-prj\\mmp-prj\\migrations\\20240520083327_addtableusermodelsid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|c:\\users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\migrations\\20240520083327_addtableusermodelsid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAC0A54F-9A9E-42AF-96B1-89C90FDE26B4}|mmp-prj\\mmp-prj.csproj|solutionrelative:mmp-prj\\migrations\\20240520083327_addtableusermodelsid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -153,8 +161,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "DockedWidth": 100,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,175 +226,79 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Controllers\\UserController.cs*",
-              "RelativeToolTip": "mmp-prj\\Controllers\\UserController.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwCIAAAAgAAAA",
+              "DocumentIndex": 3,
+              "Title": "mmp-prj.csproj",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
+              "RelativeDocumentMoniker": "mmp-prj\\mmp-prj.csproj",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\mmp-prj.csproj",
+              "RelativeToolTip": "mmp-prj\\mmp-prj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T08:12:33.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LambdaFunction.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\LambdaFunction.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\LambdaFunction.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\LambdaFunction.cs",
+              "RelativeToolTip": "mmp-prj\\LambdaFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T12:52:38.802Z",
+              "WhenOpened": "2024-05-27T07:24:31.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Service\\UserService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\UserService.cs",
-              "RelativeToolTip": "mmp-prj\\Service\\UserService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T12:14:53.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\UserRepository.cs",
               "RelativeToolTip": "mmp-prj\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAACwAAABGAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwCwAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T08:12:30.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "mmp-prj\\Repository\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:12:15.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\IUserService.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Service\\IUserService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\IUserService.cs",
               "RelativeToolTip": "mmp-prj\\Service\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T12:14:41.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T12:14:41.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Controllers\\TaskController.cs",
               "RelativeToolTip": "mmp-prj\\Controllers\\TaskController.cs",
-              "ViewState": "AQIAANMAAAAAAAAAAAAYwPgAAAAJAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwDIAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T14:26:49.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Program.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Program.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Program.cs",
-              "RelativeToolTip": "mmp-prj\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:25:54.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "mmp-prj\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:06:14.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\TaskService.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Service\\TaskService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\TaskService.cs",
-              "RelativeToolTip": "mmp-prj\\Service\\TaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:31:53.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ITaskService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\ITaskService.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Service\\ITaskService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\ITaskService.cs",
-              "RelativeToolTip": "mmp-prj\\Service\\ITaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:34:00.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Repository\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\TaskRepository.cs",
-              "RelativeToolTip": "mmp-prj\\Repository\\TaskRepository.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGMAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:31:42.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SubtaskController.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Controllers\\SubtaskController.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\SubtaskController.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Controllers\\SubtaskController.cs",
-              "RelativeToolTip": "mmp-prj\\Controllers\\SubtaskController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:06:20.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\appsettings.json",
               "RelativeDocumentMoniker": "mmp-prj\\appsettings.json",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\appsettings.json",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\appsettings.json",
               "RelativeToolTip": "mmp-prj\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -395,11 +307,121 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "mmp-prj\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:12:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Program.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Program.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Program.cs",
+              "RelativeToolTip": "mmp-prj\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:25:54.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Controllers\\UserController.cs",
+              "RelativeToolTip": "mmp-prj\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:52:38.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\UserService.cs",
+              "RelativeToolTip": "mmp-prj\\Service\\UserService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:14:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "mmp-prj\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:06:14.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\TaskService.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Service\\TaskService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\TaskService.cs",
+              "RelativeToolTip": "mmp-prj\\Service\\TaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:31:53.174Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\ITaskService.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Service\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\ITaskService.cs",
+              "RelativeToolTip": "mmp-prj\\Service\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:34:00.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Repository\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\TaskRepository.cs",
+              "RelativeToolTip": "mmp-prj\\Repository\\TaskRepository.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAuwGMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:31:42.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubtaskController.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Controllers\\SubtaskController.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Controllers\\SubtaskController.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Controllers\\SubtaskController.cs",
+              "RelativeToolTip": "mmp-prj\\Controllers\\SubtaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:06:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\UserModel.cs",
               "RelativeToolTip": "mmp-prj\\Models\\UserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,50 +430,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "20240520083556_AddTableUserModelsIdGenerated.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240520083556_AddTableUserModelsIdGenerated.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240520083556_AddTableUserModelsIdGenerated.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Migrations\\20240520083556_AddTableUserModelsIdGenerated.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240520083556_AddTableUserModelsIdGenerated.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240520083556_AddTableUserModelsIdGenerated.cs",
               "RelativeToolTip": "mmp-prj\\Migrations\\20240520083556_AddTableUserModelsIdGenerated.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:35:56.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20240526063309_AddRoleToUserModel.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240526063309_AddRoleToUserModel.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Migrations\\20240526063309_AddRoleToUserModel.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240526063309_AddRoleToUserModel.cs",
-              "RelativeToolTip": "mmp-prj\\Migrations\\20240526063309_AddRoleToUserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T06:33:10.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20240526065508_AddTableCompleteToUserModel.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240526065508_AddTableCompleteToUserModel.cs",
-              "RelativeDocumentMoniker": "mmp-prj\\Migrations\\20240526065508_AddTableCompleteToUserModel.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240526065508_AddTableCompleteToUserModel.cs",
-              "RelativeToolTip": "mmp-prj\\Migrations\\20240526065508_AddTableCompleteToUserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T06:55:08.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T08:35:56.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "20240526063309_AddRoleToUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240526063309_AddRoleToUserModel.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Migrations\\20240526063309_AddRoleToUserModel.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240526063309_AddRoleToUserModel.cs",
+              "RelativeToolTip": "mmp-prj\\Migrations\\20240526063309_AddRoleToUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:33:10.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240526065508_AddTableCompleteToUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240526065508_AddTableCompleteToUserModel.cs",
+              "RelativeDocumentMoniker": "mmp-prj\\Migrations\\20240526065508_AddTableCompleteToUserModel.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240526065508_AddTableCompleteToUserModel.cs",
+              "RelativeToolTip": "mmp-prj\\Migrations\\20240526065508_AddTableCompleteToUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:55:08.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "RegisterModel.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\RegisterModel.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Models\\RegisterModel.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\RegisterModel.cs",
               "RelativeToolTip": "mmp-prj\\Models\\RegisterModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,11 +479,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\LoginModel.cs",
               "RelativeToolTip": "mmp-prj\\Models\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -473,101 +492,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\AuthService.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Service\\AuthService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\AuthService.cs",
               "RelativeToolTip": "mmp-prj\\Service\\AuthService.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAAAEcAAAAbAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAABhwEcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T08:05:06.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\IAuthService.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Service\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\IAuthService.cs",
               "RelativeToolTip": "mmp-prj\\Service\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:04:35.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T08:04:35.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "MppContext.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\MppContext.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\MppContext.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Models\\MppContext.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\MppContext.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\MppContext.cs",
               "RelativeToolTip": "mmp-prj\\Models\\MppContext.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAiAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAABhwDoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T07:18:04.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\Task.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\Task.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\Task.cs",
               "RelativeToolTip": "mmp-prj\\Models\\Task.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T07:18:13.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T07:18:13.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20240520081750_AddTableUser.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240520081750_AddTableUser.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240520081750_AddTableUser.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Migrations\\20240520081750_AddTableUser.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240520081750_AddTableUser.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240520081750_AddTableUser.cs",
               "RelativeToolTip": "mmp-prj\\Migrations\\20240520081750_AddTableUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:17:50.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T08:17:50.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mpp-prj.test\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mpp-prj.test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "mpp-prj.test\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mpp-prj.test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mpp-prj.test\\UnitTest1.cs",
               "RelativeToolTip": "mpp-prj.test\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:49:14.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T14:49:14.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "20240520083327_AddTableUserModelsId.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240520083327_AddTableUserModelsId.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240520083327_AddTableUserModelsId.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Migrations\\20240520083327_AddTableUserModelsId.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\20240520083327_AddTableUserModelsId.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\20240520083327_AddTableUserModelsId.cs",
               "RelativeToolTip": "mmp-prj\\Migrations\\20240520083327_AddTableUserModelsId.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T08:33:27.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ISubtaskService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\ISubtaskService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\ISubtaskService.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Service\\ISubtaskService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\ISubtaskService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\ISubtaskService.cs",
               "RelativeToolTip": "mmp-prj\\Service\\ISubtaskService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -575,47 +590,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\ITaskRepository.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Repository\\ITaskRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\ITaskRepository.cs",
               "RelativeToolTip": "mmp-prj\\Repository\\ITaskRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAIA6wBEAAAA4AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA2wBEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T07:33:42.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "MppContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\MppContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\MppContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Migrations\\MppContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Migrations\\MppContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Migrations\\MppContextModelSnapshot.cs",
               "RelativeToolTip": "mmp-prj\\Migrations\\MppContextModelSnapshot.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T08:18:36.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "SubtaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\SubtaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\SubtaskRepository.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Repository\\SubtaskRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\SubtaskRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\SubtaskRepository.cs",
               "RelativeToolTip": "mmp-prj\\Repository\\SubtaskRepository.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:05:51.232Z"
+              "WhenOpened": "2024-04-21T18:05:51.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "SubtaskService.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\SubtaskService.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\SubtaskService.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Service\\SubtaskService.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Service\\SubtaskService.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Service\\SubtaskService.cs",
               "RelativeToolTip": "mmp-prj\\Service\\SubtaskService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -623,11 +639,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "ISubtaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\ISubtaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\ISubtaskRepository.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Repository\\ISubtaskRepository.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Repository\\ISubtaskRepository.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Repository\\ISubtaskRepository.cs",
               "RelativeToolTip": "mmp-prj\\Repository\\ISubtaskRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -635,11 +651,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Subtask.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\Subtask.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\Subtask.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Models\\Subtask.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Models\\Subtask.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Models\\Subtask.cs",
               "RelativeToolTip": "mmp-prj\\Models\\Subtask.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -647,44 +663,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Tasks.cs",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Domain\\Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Domain\\Tasks.cs",
               "RelativeDocumentMoniker": "mmp-prj\\Domain\\Tasks.cs",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Domain\\Tasks.cs",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Domain\\Tasks.cs",
               "RelativeToolTip": "mmp-prj\\Domain\\Tasks.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:28:22.237Z"
+              "WhenOpened": "2024-04-12T14:28:22.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "mmp-prj\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\Properties\\launchSettings.json",
               "RelativeToolTip": "mmp-prj\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-10T05:41:10.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\appsettings.Development.json",
               "RelativeDocumentMoniker": "mmp-prj\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\oanam\\OneDrive\\Documents\\backend-mpp\\mmp-prj\\mmp-prj\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\oanam\\source\\repos\\mpp-backend\\mmp-prj\\mmp-prj\\appsettings.Development.json",
               "RelativeToolTip": "mmp-prj\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-10T05:41:07.019Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 300,
           "SelectedChildIndex": -1,
           "Children": [
             {

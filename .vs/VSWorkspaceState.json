@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\mmp-prj",
+    "\\mmp-prj\\mmp-prj",
+    "\\mmp-prj\\mmp-prj\\Controllers"
   ],
-  "SelectedNode": "\\mmp-prj.sln",
+  "SelectedNode": "\\mmp-prj\\mmp-prj\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
