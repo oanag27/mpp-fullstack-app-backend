@@ -1,0 +1,19 @@
+{
+  "name": "mpp-fullstack-app-backend",
+  "description": "A .NET Web API project",
+  "scripts": {
+    "postdeploy": "dotnet ef database update"
+  },
+  "env": {
+    "ASPNETCORE_ENVIRONMENT": {
+      "description": "The environment in which the application is running",
+      "value": "Production"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/dotnet"
+    }
+  ]
+}
+
