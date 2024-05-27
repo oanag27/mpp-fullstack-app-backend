@@ -10,13 +10,16 @@ The deployment process involves setting up the backend system on AWS to ensure s
 
 The system supports three primary roles: User, Admin, and Manager, each with distinct permissions and capabilities.
 
-## User: Can read tasksa and view tasks sorted by name.
-## Manager: Has all the permissions of a User, plus the ability to add, remove, update tasks.
-## Admin: Possesses all permissions, including managing users and managers.
+User: Can read tasksa and view tasks sorted by name.
+Manager: Has all the permissions of a User, plus the ability to add, remove, update tasks.
+Admin: Possesses all permissions, including managing users and managers.
 
 # Login and Register Based on Roles
 
 We implement a secure authentication and authorization system to manage user access based on their roles. Key features include:
-## Registration: New users can register through a secure endpoint. Upon registration, users are assigned the 'User' role by default, or they can choose between 'Manager' or 'Admin'.
-## Login: Users authenticate via a secure login endpoint using JWT (JSON Web Token). Upon successful authentication, the token includes user role information.
-## Authorization Middleware: Middleware checks user roles on each request to ensure they have the necessary permissions to access the endpoint.
+
+Registration: New users can register through a secure endpoint. Upon registration, users are assigned the 'User' role by default, or they can choose between 'Manager' or 'Admin'.
+
+Login: Users authenticate via a secure login endpoint using JWT (JSON Web Token). Upon successful authentication, the token includes user role information.
+
+Authorization Middleware: Middleware checks user roles on each request to ensure they have the necessary permissions to access the endpoint.
